@@ -8,3 +8,4 @@ tmp/*
 !tmp/.gitkeep
 
 src/.DS_Store
+src/__tests__/.DS_Store
